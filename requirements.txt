@@ -3,3 +3,4 @@ yfinance==0.1.74
 matplotlib
 numpy
 pandas
+seaborn
