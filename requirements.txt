@@ -4,3 +4,5 @@ matplotlib
 numpy
 pandas
 seaborn
+base58==2.1.1
+lxml==4.7.1
